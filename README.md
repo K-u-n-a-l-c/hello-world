@@ -1,4 +1,4 @@
-# hello-world
+# GITHUB
 First project in GITHUB.
 
-Hi I am Kunal Chaurasia. 
+Hi, I am Kunal Chaurasia. 
